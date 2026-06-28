@@ -1,1 +1,15 @@
-# LeetCode-SQL-Solutions
+# LeetCode SQL Solutions Portfolio
+
+مرحباً بك! هذا المستودع يضم حلولي المنظمة لمسائل قواعد البيانات والـ SQL على منصة LeetCode، بهدف تطوير مهارات كتابة الاستعلامات المعقدة وتحسين أداء الأكواد (Query Optimization).
+
+## تقسم الملفات في المستودع:
+* 📁 **Easy:** مسائل مبتدئة تركز على الأساسيات والـ Joins البسيطة.
+* 📁 **Medium:** مسائل متوسطة تركز على الـ Subqueries والـ Window Functions والتجميع.
+* 📁 **Hard:** مسائل متقدمة لحل المشكلات المعقدة والـ CTEs المتداخلة.
+
+## جدول تلخيصي بالمسائل التي تم حلها:
+
+| رقم المسألة | اسم المسألة | مستوى الصعوبة | المهارة المستخدمة |
+| :--- | :--- | :--- | :--- |
+| 175 | Combine Two Tables | Easy | LEFT JOIN |
+| 176 | Second Highest Salary | Medium | Subquery & Limit |
