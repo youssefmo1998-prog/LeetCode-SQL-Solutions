@@ -6,3 +6,11 @@
 * 📁 **Easy:** مسائل مبتدئة تركز على الأساسيات والـ Joins البسيطة.
 * 📁 **Medium:** مسائل متوسطة تركز على الـ Subqueries والـ Window Functions والتجميع.
 * 📁 **Hard:** مسائل متقدمة لحل المشكلات المعقدة والـ CTEs المتداخلة.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0550-game-play-analysis-iv](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0550-game-play-analysis-iv) |
+<!---LeetCode Topics End-->
