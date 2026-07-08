@@ -1,24 +1,31 @@
 # LeetCode SQL Solutions Portfolio
 
-مرحباً بك! هذا المستودع يضم حلولي المنظمة لمسائل قواعد البيانات والـ SQL على منصة LeetCode، بهدف تطوير مهارات كتابة الاستعلامات المعقدة وتحسين أداء الأكواد (Query Optimization).
+مرحباً بك! هذا المستودع يضم حلولي المنظمة لمسائل قواعد البيانات والـ SQL على منصة LeetCode، والتي يتم مزامنتها تلقائياً بهدف تطوير مهارات كتابة الاستعلامات المعقدة وتحسين أداء الأكواد (Query Optimization).
 
-## تقسم الملفات في المستودع:
-* 📁 **Easy:** مسائل مبتدئة تركز على الأساسيات والـ Joins البسيطة.
-* 📁 **Medium:** مسائل متوسطة تركز على الـ Subqueries والـ Window Functions والتجميع.
-* 📁 **Hard:** مسائل متقدمة لحل المشكلات المعقدة والـ CTEs المتداخلة.
+---
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0185-department-top-three-salaries](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0185-department-top-three-salaries) |
-| [0550-game-play-analysis-iv](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0550-game-play-analysis-iv) |
-| [0570-managers-with-at-least-5-direct-reports](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
-| [0585-investments-in-2016](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0585-investments-in-2016) |
-| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
-| [0608-tree-node](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0608-tree-node) |
-| [0626-exchange-seats](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0626-exchange-seats) |
-| [1045-customers-who-bought-all-products](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1045-customers-who-bought-all-products) |
-| [1070-product-sales-analysis-iii](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1070-product-sales-analysis-iii) |
-<!---LeetCode Topics End-->
+## 📊 إحصائيات المستودع (Stats)
+
+| الكلية | السهلة (Easy) | المتوسطة (Medium) | الصعبة (Hard) |
+| :---: | :---: | :---: | :---: |
+| _[العدد الإجمالي]_ | _[عدد المسائل]_ | _[عدد المسائل]_ | _[عدد المسائل]_ |
+
+> **ملاحظة:** يتم تحديث هذا المستودع تلقائياً وبشكل دوري باستخدام أداة **LeetHub** بمجرد قبول الحل على المنصة.
+
+---
+
+## 🛠️ التقنيات والمفاهيم المستخدمة
+
+المسائل داخل المستودع تغطي جوانب متعددة في الـ SQL تشمل على سبيل المثال لا الحصر:
+* **Basics & Joins:** الربط الأساسي بين الجداول واسترجاع البيانات.
+* **Aggregations & Grouping:** عمليات التجميع وحساب الإحصائيات (`GROUP BY`, `HAVING`).
+* **Advanced Subqueries & CTEs:** الاستعلامات الفرعية والتعبيرات الجدولية الشائعة المعقدة.
+* **Window Functions:** الدوال التحليلية والمتقدمة (`DENSE_RANK`, `ROW_NUMBER`, `LEAD/LAG`).
+
+---
+
+## 📂 هيكلة الملفات داخل المستودع
+
+ستجد كل مسألة في فولدر مستقل يحتوي على:
+1. كود الحل بالامتداد الخاص به (مثل `.sql`).
+2. ملف `README.md` فرعي داخل الفولدر يشرح نص المسألة ووصفها (يتم توليده تلقائياً بواسطة LeetHub).
