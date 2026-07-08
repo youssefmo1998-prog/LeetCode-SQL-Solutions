@@ -20,4 +20,5 @@
 | [0608-tree-node](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
