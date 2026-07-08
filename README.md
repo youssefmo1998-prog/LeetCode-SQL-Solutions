@@ -1,3 +1,1 @@
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/youssef_1998)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/youssefmo1998-prog)
