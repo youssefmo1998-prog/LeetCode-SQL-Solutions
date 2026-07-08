@@ -19,4 +19,5 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
