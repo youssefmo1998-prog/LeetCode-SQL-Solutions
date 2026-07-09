@@ -27,3 +27,11 @@
 بفضل أتمتة LeetHub، ستجد كل مسألة في مجلد منفصل يحمل اسمها، ويحتوي داخله على:
 1. **ملف الكود:** الامتداد الخاص بالحل (مثل `.sql`).
 2. **ملف الشرح:** ملف `README.md` فرعي يتم توليده تلقائياً يحتوي على نص المسألة، درجة الصعوبة، والقيود المطلوبة.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1158-market-analysis-i](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1158-market-analysis-i) |
+<!---LeetCode Topics End-->
