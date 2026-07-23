@@ -1,5 +1,5 @@
 with first_order as(
-SELECT customer_id, order_date, customer_pref_delivery_date
+SELECT order_date, customer_pref_delivery_date
 from Delivery
 where (customer_id, order_date) in 
 (select customer_id,min(ORDER_date) from delivery group by customer_id)
