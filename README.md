@@ -42,4 +42,5 @@
 | [1341-movie-rating](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1393-capital-gainloss) |
 | [1907-count-salary-categories](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
