@@ -40,4 +40,5 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1341-movie-rating) |
+| [1393-capital-gainloss](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
