@@ -44,4 +44,5 @@
 | [1907-count-salary-categories](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/1934-confirmation-rate) |
 | [3220-odd-and-even-transactions](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/3220-odd-and-even-transactions) |
+| [3421-find-students-who-improved](https://github.com/youssefmo1998-prog/LeetCode-SQL-Solutions/tree/master/3421-find-students-who-improved) |
 <!---LeetCode Topics End-->
