@@ -2,6 +2,6 @@ SELECT user_id,round(avg(case when activity_type = 'free_trial' then activity_du
 round(avg(case when activity_type = 'paid' then activity_duration end),2) paid_avg_duration 
 from UserActivity
 group by user_id
-having  avg(case when activity_type = 'paid' then activity_duration end) is not null and
-avg(case when activity_type = 'free_trial' then activity_duration end) is not null
+having  paid_avg_duration is not null and
+trial_avg_duration is not null
 order by user_id
